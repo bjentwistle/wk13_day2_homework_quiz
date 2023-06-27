@@ -3,14 +3,18 @@
 # Polymorphism
 
 1. What does the ___word___ 'polymorphism' mean?
+   -  the condition of occurring in several different forms.
+     
+3. What does it mean when we apply polymorphism to OO design? Give a simple Java example.
+  -   Polymorphism (computer science OOP), the ability in programming to present the same programming interface for differing underlying forms. In other words, when we talk of something being 'polymorphic' we mean that it can have 'many forms'. The beauty of "polymorphism" is that any type can behave as if it is any of it's super class types as well as it own.
+  -   public interface IChargeable { double charge(double amount);} This interface can be implemented in many classes which have different attributes and methods but can all use the interface.
 
-2. What does it mean when we apply polymorphism to OO design? Give a simple Java example.
 
-3. What can we use to implement polymorphism in Java?
+4. What can we use to implement polymorphism in Java?
 
-4. How many 'forms' can an object take when using polymorphism?
+5. How many 'forms' can an object take when using polymorphism?
 
-5. Give an example of when you could use polymorphism.
+6. Give an example of when you could use polymorphism.
 
 
 
